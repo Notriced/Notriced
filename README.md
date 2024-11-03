@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Notriced
 - 👀 I’m interested in Making random software
-- 🌱 I’m currently learning blender and python
+- 🌱 I’m currently learning blender and C++ 
   
 
 <!---
